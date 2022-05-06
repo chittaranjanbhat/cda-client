@@ -1,0 +1,16 @@
+# Missing Section
+# sourceLocation:
+#   bucketName: #mising value
+#   manifestKey: dummy/key.json
+outputLocation:
+  path: dummy/path
+savepointsLocation:
+  path: dummy/path
+outputSettings:
+  exportTarget: file
+  saveIntoJdbcRaw: true
+  saveIntoJdbcMerged: true
+  fileFormat: csv
+  includeColumnNames: true
+  saveAsSingleFile: true
+  saveIntoTimestampDirectory: true
